@@ -30,8 +30,8 @@
 
 - Demo:
     - I have implemented a simple web page and deploy it in netlify to test the facebook share with preview feature. You can have a look here: https://keen-yalow-af3cc7.netlify.app/
-    - Find out code here: 
-
+    - Find out code here: https://github.com/ngochangjelly/test-fb-share-with-preview
+    - Example: ![exmaple pic](./example.jpg)
 
 
 ### Preference
